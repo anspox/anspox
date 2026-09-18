@@ -1,25 +1,51 @@
-### Hi, I'm Semih 👋
+﻿<div align="center">
 
-Computer Engineering graduate currently focused on building web applications with **ASP.NET MVC (C#)**. I actively integrate AI tools into my development workflow.
+# Hi, I'm Semih Acar 👋
 
-- 🔭 Currently working on: an ASP.NET MVC web application
-- 🌱 Currently learning: C#, the .NET ecosystem
-- 💼 Experience with: Python, React Native, Firebase, Docker, Node.js
-- 🤖 I make effective use of AI tools throughout my development process
+**Computer Engineering Graduate | Full Stack .NET Developer**
 
-### 🛠️ Tech Stack
+I build robust web applications, scalable backend systems, and modern mobile solutions. 
+I actively integrate AI-driven tools to enhance development workflows.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+---
 
-### 📌 Projects
+### 🚀 Tech Stack
 
-- [**ffr-app**](https://github.com/anspox/ffr-app) — Personal finance app built with React Native & Firebase
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,js,nodejs,docker,firebase,mysql,git&perline=10" alt="Tech Stack" />
+  </a>
+</p>
 
-### 📫 Reach me
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL_STACK-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_ECOSYSTEM-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MOBILE_DEVELOPMENT-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_ASSISTED-1a1b27?style=for-the-badge&logoColor=white" />
+</p>
 
-[LinkedIn](https://linkedin.com/in/semihacar3535)
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/semihacar3535">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/anspox">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:semihacar3535@hotmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🧠 Focus Areas
+
+<p align="center">
+ASP.NET Core MVC · Entity Framework Core · React Native · Dockerization · System Architecture
+</p>
+
+</div>
