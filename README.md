@@ -13,7 +13,7 @@ I actively integrate AI-driven tools to enhance development workflows.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,js,nodejs,docker,firebase,mysql,git&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,nodejs,firebase,mysql,git&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
@@ -45,7 +45,8 @@ I actively integrate AI-driven tools to enhance development workflows.
 ### 🧠 Focus Areas
 
 <p align="center">
-ASP.NET Core MVC · Entity Framework Core · React Native · Dockerization · System Architecture
+ASP.NET Core MVC · Entity Framework Core · React Native · System Architecture
 </p>
 
 </div>
+
